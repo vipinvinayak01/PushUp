@@ -14,11 +14,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void testData()
     {
-        int i = 2+2;
+        int i = 3+3;
         int ii = 3;
         int iii = i + ii;
         String test = "Test";
-
+        boolean True = false;
 
     }
 }
