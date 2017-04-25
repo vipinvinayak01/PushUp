@@ -14,9 +14,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void testData()
     {
-        int i = 1+1;
+        int i = 2+2;
         int ii = 3;
         int iii = i + ii;
+        String test = "Test";
 
 
     }
